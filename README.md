@@ -1,7 +1,7 @@
 <h1 align="center">George Rodrigues Cordeiro</h1>
 
 <h3 align="center">
-🚀 Desenvolvedor Full Stack
+Desenvolvedor Full Stack
 </h3>
 
 <p align="center">
@@ -10,7 +10,7 @@ Apaixonado por tecnologia, desenvolvimento web e construção de soluções.
 
 ---
 
-## 👨‍💻 Sobre Mim
+## Sobre Mim
 
 - 💻 Desenvolvedor em constante aprendizado
 - 🌱 Estudando Java, TypeScript, Node.js, Bun e Python
@@ -32,7 +32,7 @@ Apaixonado por tecnologia, desenvolvimento web e construção de soluções.
 
 ---
 
-## 🚀 Tecnologias
+## Tecnologias
 
 <div align="center">
 
@@ -49,22 +49,13 @@ Apaixonado por tecnologia, desenvolvimento web e construção de soluções.
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=typescript,java,bun,nodejs,python,git,github,elysia,spring" alt="Minhas Techs" />
 </p>
 
 
----
-
-## 📊 Estatísticas GitHub
-
-<p align="center">
-  <img height="180em" src="https://vercel.app" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img height="180em" src="https://vercel.app" alt="Top Languages" />
-</p>
 
 
 ---
@@ -72,7 +63,6 @@ Apaixonado por tecnologia, desenvolvimento web e construção de soluções.
 ## 🎯 Metas
 
 - ✅ Aprimorar TypeScript
-- ✅ Dominar Node.js
 - ✅ Evoluir em Bun
 - ✅ Aprender Java Avançado
 - ✅ Desenvolver projetos Full Stack
@@ -91,5 +81,5 @@ https://geodev-one.vercel.app/
 ---
 
 <h3 align="center">
-🚀 Transformando código em soluções.
+Transformando código em soluções.
 </h3>
