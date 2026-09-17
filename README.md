@@ -19,7 +19,7 @@ Apaixonado por tecnologia, desenvolvimento web e construção de soluções.
 
 ---
 
-## 🌐 Meu Portfólio
+## Meu Portfólio
 
 <p align="center">
   <a href="https://geodev-one.vercel.app/" target="_blank">
@@ -37,13 +37,12 @@ Apaixonado por tecnologia, desenvolvimento web e construção de soluções.
 <div align="center">
 
 ### Front-end
-React &nbsp; • &nbsp;  TypeScript &nbsp; • &nbsp; HTML5 &nbsp; • &nbsp; CSS3
+⚛️ React   •   🔷 TypeScript   •   🌐 HTML5   •   🎨 CSS3
 
 ### Back-end
-Node.js &nbsp; • &nbsp; Bun &nbsp; • &nbsp; Java &nbsp; • &nbsp; Python
+🟢 Node.js   •   ⚡ Bun   •   ☕ Java   •   🐍 Python
 
-### Ferramentas
-🔧 Git &nbsp; • &nbsp; GitHub &nbsp; • &nbsp; VS Code
+
 
 </div>
 
