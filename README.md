@@ -52,17 +52,20 @@ Apaixonado por tecnologia, desenvolvimento web e construção de soluções.
 ## 🛠️ Skills
 
 <p align="center">
-  https://skillicons.dev/icons?i=react,typescript,nodejs,bun,java,python,git,github,vscode](https://skillicons.dev/icons?i=react,typescript,nodejs,bun,java,python,git,github,vscode
+  <img src="https://skillicons.dev/icons?i=typescript,java,bun,nodejs,python,git,github,elysia,spring" alt="Minhas Techs" />
 </p>
+
 
 ---
 
 ## 📊 Estatísticas GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=George-Dev04&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=George-Dev04&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://vercel.app" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img height="180em" src="https://vercel.app" alt="Top Languages" />
 </p>
+
 
 ---
 
