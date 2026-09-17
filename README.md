@@ -23,9 +23,12 @@ Apaixonado por tecnologia, desenvolvimento web e construção de soluções.
 
 <p align="center">
   <a href="https://geodev-one.vercel.app/" target="_blank">
-    https://img.shields.io/badge/Acessar_Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white
-  </a>
-</p>
+    <img src="https://img.shields.io/badge/🚀_Meu_Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<div align="center">
+  
+### 🔗 https://geodev-one.vercel.app/
+
+</div>
 
 ---
 
@@ -49,7 +52,7 @@ Apaixonado por tecnologia, desenvolvimento web e construção de soluções.
 ## 🛠️ Skills
 
 <p align="center">
-  https://skillicons.dev/icons?i=react,typescript,nodejs,bun,java,python,git,github,vscode
+  https://skillicons.dev/icons?i=react,typescript,nodejs,bun,java,python,git,github,vscode](https://skillicons.dev/icons?i=react,typescript,nodejs,bun,java,python,git,github,vscode
 </p>
 
 ---
