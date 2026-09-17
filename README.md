@@ -37,13 +37,13 @@ Apaixonado por tecnologia, desenvolvimento web e construção de soluções.
 <div align="center">
 
 ### Front-end
-⚛️ React &nbsp; • &nbsp; 🔷 TypeScript &nbsp; • &nbsp; 🌐 HTML5 &nbsp; • &nbsp; 🎨 CSS3
+React &nbsp; • &nbsp;  TypeScript &nbsp; • &nbsp; HTML5 &nbsp; • &nbsp; CSS3
 
 ### Back-end
-🟢 Node.js &nbsp; • &nbsp; ⚡ Bun &nbsp; • &nbsp; ☕ Java &nbsp; • &nbsp; 🐍 Python
+Node.js &nbsp; • &nbsp; Bun &nbsp; • &nbsp; Java &nbsp; • &nbsp; Python
 
 ### Ferramentas
-🔧 Git &nbsp; • &nbsp; 🐙 GitHub &nbsp; • &nbsp; 💻 VS Code
+🔧 Git &nbsp; • &nbsp; GitHub &nbsp; • &nbsp; VS Code
 
 </div>
 
@@ -60,7 +60,7 @@ Apaixonado por tecnologia, desenvolvimento web e construção de soluções.
 
 ---
 
-## 🎯 Metas
+## Metas
 
 - ✅ Aprimorar TypeScript
 - ✅ Evoluir em Bun
@@ -70,12 +70,12 @@ Apaixonado por tecnologia, desenvolvimento web e construção de soluções.
 
 ---
 
-## 📫 Contato
+## Contato
 
-🐙 GitHub:  
+GitHub:  
 https://github.com/George-Dev04
 
-🌐 Portfólio:  
+Portfólio:  
 https://geodev-one.vercel.app/
 
 ---
